@@ -1,0 +1,13 @@
+# Konfigurasi Umum
+BL_AKHIR: "DES-2024"
+LBR_1: "DES-2024"
+LBR_2: "NOV-2024"
+LBR_3: "OKT-2024"
+
+# Konfigurasi RPTAG: File dan nilai tambahan untuk kolom RPTAG
+RPTAG:
+  Dalbo.xlsx: 10000
+  JAB.xlsx: 5000
+  JAK.xlsx: 4000
+  kherudin.xlsx: 12000
+  Sukron.xlsx: 15000

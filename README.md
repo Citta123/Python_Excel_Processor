@@ -81,7 +81,7 @@ ProjekXLSX/
 
 I'm a freelance Python developer focused on automation, data engineering, and process optimization. This tool is one example of how Python can be used to replace repetitive Excel tasks with smart logic that saves hours of manual work.
 
-If you'd like to hire me to build similar automation systems or help you with messy Excel data — [email@email.com](mailto:email@email.com)
+If you'd like to hire me to build similar automation systems or help you with messy Excel data — [plusenergi77@gmail.com](mailto:plusenergi77@gmail.com)
 
 ---
 
